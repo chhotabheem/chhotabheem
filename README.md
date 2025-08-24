@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Siddesh Bethur
-- 👀 I’m interested in C++ programming
-- 🌱 I’m currently learning socket programming 
-- 💞️ I’m looking to collaborate on template metaprogramming
+- 👀 I’m interested distributes system using C++ and go programming
+- 🌱 I’m currently learning golang 
 - 📫 How to reach me siddesh.bethur@outlook.com
 
 <!---
