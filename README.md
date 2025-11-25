@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddesh Bethur
 - 👀 I’m interested in building distributed system 
-- 🌱 I’m currently building building blocks of dsitributed system in c++
+- 🌱 I’m currently working on building blocks of dsitributed system in c++
 - 📫 How to reach me siddesh.bethur@outlook.com
 
 <!---
