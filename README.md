@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddesh Bethur
-- 👀 I’m interested in building distributes system 
+- 👀 I’m interested in building distributed system 
 - 🌱 I’m currently building building blocks of dsitributed system in c++
 - 📫 How to reach me siddesh.bethur@outlook.com
 
