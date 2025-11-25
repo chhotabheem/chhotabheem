@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddesh Bethur
-- 👀 I’m interested distributes system using C++ and go programming
-- 🌱 I’m currently learning golang 
+- 👀 I’m interested in building distributes system 
+- 🌱 I’m currently building building blocks of dsitributed system in c++
 - 📫 How to reach me siddesh.bethur@outlook.com
 
 <!---
